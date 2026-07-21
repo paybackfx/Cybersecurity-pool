@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """scorpion — parse and display image metadata (EXIF + basic attributes).
 
-Part of the Arachnida project (Cybersecurity Project).
+Part of the Arachnida project (a cybersecurity exercise).
 
 For each image file given on the command line, scorpion prints basic
 attributes (format, dimensions, size on disk, creation/modification date)

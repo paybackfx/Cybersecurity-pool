@@ -1,0 +1,17 @@
+# Subject document (school-owned, not for public distribution)
+Arachnida.pdf
+
+# Spider output
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db

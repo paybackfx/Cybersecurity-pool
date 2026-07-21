@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """spider — recursively download images from a website.
 
-Part of the Arachnida project (Cybersecurity Project).
+Part of the Arachnida project (a cybersecurity exercise).
 
 Only the Python standard library is used: ``urllib`` for HTTP and
 ``html.parser`` for extracting links. The crawl logic (queue, visited
